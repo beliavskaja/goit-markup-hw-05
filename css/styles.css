@@ -91,6 +91,8 @@ img {
 
 .email-link,
 .tel-link {
+  display: flex;
+  align-items: center;
   color: #757575;
   margin-left: 10px;
 }
